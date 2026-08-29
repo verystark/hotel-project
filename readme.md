@@ -1,4 +1,9 @@
 Hotel
+
+Note: The original project structure included subfolders.
+When moving the project from the course repository, all files ended up in one directory.
+This does not affect the program’s behavior.
+
 Description
 
 This program reads hotel room data from an input file,
@@ -60,10 +65,6 @@ Run the program from the command line with an input file, for example:
 
 Then enter commands as described above.
 You can always type HELP to see all available commands.
-
-Note: The original project structure included subfolders.
-When moving the project from the course repository, all files ended up in one directory.
-This does not affect the program’s behavior.
 
 Build and Run
 Using g++ (Windows / Linux / Mac)
