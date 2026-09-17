@@ -1,6 +1,6 @@
 Hotel
 
-Note: The original project structure included subfolders.
+Note: The original project structure included a clean folder structure.
 When moving the project from the course repository, all files ended up in one directory.
 This does not affect the program’s behavior.
 
